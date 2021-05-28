@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Specific
+*key*.json
+*key*.yaml
+.runtimeconfig.json
+runtimeconfig.json
+.idea
+.DS_Store
